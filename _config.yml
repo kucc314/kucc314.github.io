@@ -16,7 +16,7 @@
 title: KUCC
 email: anamkucc314@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  고려대학교 중앙 컴퓨터동아리 KUCC
+  고려대학교 중앙 컴퓨터동아리
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  kucc314
