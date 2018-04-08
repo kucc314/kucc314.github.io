@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "KUCC 블로그 개설"
 date:   2018-04-08 20:17:54 +0900
 ---
